@@ -49,3 +49,10 @@
 ![doc_test](https://github.com/kekis01/PyCharm-task-10/blob/main/doc_img/doc_tests.png)
 
 ![error](https://github.com/kekis01/PyCharm-task-10/blob/main/doc_img/test_error.png)
+
+## Отладчик
+
+Значения переменных из дебагера:
+
+![Debugger](https://github.com/kekis01/PyCharm-task-10/blob/main/debugger.png)
+
