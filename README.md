@@ -40,3 +40,12 @@
 После filter_with_filename.py:
 
 ![filter_with_filename_img](https://github.com/kekis01/PyCharm-task-10/blob/main/res_filename.jpg)
+
+## Тесты
+
+Для второго модуля не смог сделать тест, так как метод не возвращает
+никакой элемент. Тесты для первого метода работают корректно.
+
+![doc_test](https://github.com/kekis01/PyCharm-task-10/blob/main/doc_img/doc_tests.png)
+
+![error](https://github.com/kekis01/PyCharm-task-10/blob/main/doc_img/test_error.png)
